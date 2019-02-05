@@ -23,7 +23,7 @@ CIRCLEHOME ?= ..
 -include $(CIRCLEHOME)/Config.mk
 
 AARCH	 ?= 32
-RASPPI	 ?= 1
+RASPPI	 ?= 2 
 PREFIX	 ?= arm-none-eabi-
 PREFIX64 ?= aarch64-elf-
 

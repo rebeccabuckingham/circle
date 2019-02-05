@@ -22,7 +22,7 @@
 #include <circle/string.h>
 
 // Network configuration
-#define USE_DHCP
+//#define USE_DHCP
 
 #ifndef USE_DHCP
 static const u8 IPAddress[]      = {192, 168, 0, 250};
